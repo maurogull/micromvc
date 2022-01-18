@@ -2,6 +2,8 @@
 This is a (really) small collection of classes written in PHP, intended as a minimal setup for start thinking in server-side MVC Design Pattern terms.
 The goal is understand the Pattern's ideas, pros, cons while avoiding black-box setups.
 
+The motto is "We do little but understand all of it". (Can you imagine the opposite of this?)
+
 We use this as a starting point at our web programming courses.
 
 ## Execution
